@@ -1,0 +1,3 @@
+JDK: Software que probe la herraenta de desarrollo para la creación de java.(Compilador)
+JRE: Interprete 
+JVM: Maquina virtual
